@@ -1,1 +1,3 @@
-title: Tim Van Hoose's Webpage
+layout: page
+title: "index"
+permalink: /index/
