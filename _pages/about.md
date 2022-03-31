@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tim Van Hoose"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
