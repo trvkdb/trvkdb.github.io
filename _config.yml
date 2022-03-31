@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tim Van Hoose / PhD Student"
+title                    : "Tim Van Hoose"
 title_separator          : "-"
 name                     : &name "Tim Van Hoose"
 description              : &description "I am a first year PhD student at UNC Chapel Hill"
