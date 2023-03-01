@@ -19,8 +19,8 @@ author_profile: true
 
 *Submitted*
 
-- L. Campos, J. Murphy, and T. Van Hoose, Averaging for the dispersion-managed NLS (2022) [https://arxiv.org/abs/2205.11009](https://arxiv.org/abs/2205.11009)
-- J. Murphy and T. Van Hoose, Well-posedness and blowup for the dispersion-managed nonlinear Schrödinger equation (2021) [https://arxiv.org/abs/2110.08372](https://arxiv.org/abs/2110.08372)
+- L. Campos, J. Murphy, and T. Van Hoose, Averaging for the dispersion-managed NLS [https://arxiv.org/abs/2205.11009](https://arxiv.org/abs/2205.11009)
+- J. Murphy and T. Van Hoose, Well-posedness and blowup for the dispersion-managed nonlinear Schrödinger equation [https://arxiv.org/abs/2110.08372](https://arxiv.org/abs/2110.08372)
   
 *Publication Year 2022*
 
