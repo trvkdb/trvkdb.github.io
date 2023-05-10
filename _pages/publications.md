@@ -26,6 +26,3 @@ author_profile: true
 
 - J. Murphy and T. Van Hoose, Modified scattering for a dispersion-managed nonlinear Schrödinger equation, [NoDEA Nonlinear Differential Equations Appl. 29 (2022), no. 1, Art. 1, 11pp.](https://link.springer.com/article/10.1007/s00030-021-00731-6), [https://arxiv.org/abs/2104.00209](https://arxiv.org/abs/2104.00209)
 
-*Expository*
-
-- [Notes on Invariant Measures](https://trvkdb.github.io/files/invmeasures.pdf)
