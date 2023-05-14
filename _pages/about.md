@@ -11,5 +11,3 @@ redirect_from:
 Welcome to my website! I am currently a PhD student at the University of North Carolina at Chapel Hill, working with [Dr. Jeremy Marzuola](https://marzuola.web.unc.edu/). Before that, I was a master's student in mathematics at [Missouri S&T](math.mst.edu) under the direction of [Dr. Jason Murphy](https://web.mst.edu/~jcmcfd/). I am broadly interested in nonlinear dispersive PDE and stochastic PDE. 
 
 
-TEST
-
