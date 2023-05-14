@@ -11,6 +11,8 @@ redirect_from:
 
 This page contains some expository writing and/or notes of mine. In addition, here is a link to my One Problem a Day project, inspired by one of my fellow graduate students at UNC, [Reese Lance](https://tarheels.live/rlance/). 
 
+- [One Problem Every Day](https://trvkdb.github.io/blog)
+
 *Expository Writings and Notes*
 
 - [Notes on Invariant Measures](https://trvkdb.github.io/files/invmeasures.pdf) **WORK IN PROGRESS**
