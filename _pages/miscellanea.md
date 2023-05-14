@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-This page contains some expository writing and/or notes of mine. In addition, here is a link to my One Problem a Day project, inspired by one of my fellow graduate students at UNC, [Reese Lance](https://tarheels.live/rlance/). 
+This page contains some expository writing and/or notes of mine. In addition, here is a link to my One Example Every Day project, inspired by one of my fellow graduate students at UNC. 
 
-- [One Problem Every Day](https://trvkdb.github.io/blog)
+- [One Example Every Day](https://trvkdb.github.io/blog)
 
 *Expository Writings and Notes*
 

@@ -1,5 +1,5 @@
 ---
-permalink: /dailyexample/
+permalink: /dailyproblem/
 title: "One Example Every Day"
 author_profile: true
 redirect_from: 
