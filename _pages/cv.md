@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](<https://trvkdb.github.io/files/TVH vita.pdf>)
+Here is my [CV](<https://trvkdb.github.io/files/TVH vita.pdf>).
