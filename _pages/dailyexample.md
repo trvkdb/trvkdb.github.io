@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 This page is a dedicated archive of my daily example posts. 
+
+- [Day 1, 5/14/2023; Test Post](https://trvkdb.github.io/posts/2023/05/testpost/)
